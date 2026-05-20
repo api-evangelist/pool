@@ -34,6 +34,8 @@ apis:
       - type: Support
         url: https://support.pool.com
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/poolcorp
   - type: Website
     url: https://www.pool.com
   - type: Support
