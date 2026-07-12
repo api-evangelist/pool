@@ -35,6 +35,8 @@ apis:
       - type: Support
         url: https://support.pool.com
 common:
+  - type: DomainSecurity
+    url: security/pool-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/poolcorp
   - type: Website
