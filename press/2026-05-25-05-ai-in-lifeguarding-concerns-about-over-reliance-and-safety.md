@@ -1,7 +1,9 @@
 ---
 title: 'AI in lifeguarding: concerns about over-reliance and safety'
 url: https://www.facebook.com/groups/seniorlifeguards/posts/867747731288820/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pool" press release artificial intelligence'
 position: 5
 source: serpapi-google

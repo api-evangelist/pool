@@ -1,7 +1,9 @@
 ---
 title: Press Releases
 url: https://trainingindustry.com/press-release/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pool" press release artificial intelligence'
 position: 4
 source: serpapi-google
